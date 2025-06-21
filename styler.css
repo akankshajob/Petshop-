@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+#form1 {
+    margin: auto;
+    max-width: 400px;
+    background-color: #db0f0f;
+    border-radius: 5px;
+    padding: 20px;
+}

@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(31, 21, 11);
+    color: aliceblue;
+}
+
+.container h1{
+    margin-top: 3%;
+    font-size: 51px;
+    text-align: center;
+    color: rgb(252, 255, 254);
+    font-family: "Times New Roman", Times, serif;
+}
+.container table{
+    background-color: rgb(173, 143, 123);
+    border-radius: 5px;
+    margin: 25px auto;
+}
+.container table td{
+    border: 5px solid;
+    padding: 40px;
+    color: black;
+}
+.container table tr{
+    text-align: center;
+    font-size: 34px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 90;
+}
