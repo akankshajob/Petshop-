@@ -77,6 +77,6 @@ This project is a step toward digital transformation in the pet retail industry.
 ---
 
 👩‍💻 Developed by:
-- Akanksha Job (A04)
+- Akanksha Job 
 
-📍 *Indira College of Commerce and Science, Pune*
+
