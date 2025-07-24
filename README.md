@@ -46,7 +46,19 @@ Many pet shops still operate offline, which is time-consuming and inefficient. O
 - Windows OS
 - XAMPP Server
 - Any modern browser
+## 🖼️Pictures
 
+
+<p align="center">
+  <img src="images/home.png" alt="Home" width="600"><br><br>
+  <img src="images/home2.png" alt="Home2" width="600"><br><br>
+  <img src="images/home3.png" alt="Home3" width="600"><br><br>
+  <img src="images/sale.png" alt="Home4" width="600"><br><br>
+  <img src="images/cart.png" alt="Home5" width="600"><br><br>
+  <img src="images/cart2.png" alt="Home6" width="600"><br><br>
+  <img src="images/admin.png" alt="Home7" width="600"><br><br>
+  <img src="images/admin2.png" alt="Cart" width="600"><br><br>
+</p>
 ### Hardware
 - Intel Core i5 processor or higher
 - 4GB RAM or more
