@@ -59,6 +59,8 @@ Many pet shops still operate offline, which is time-consuming and inefficient. O
   <img src="images/admin.png" alt="Home7" width="600"><br><br>
   <img src="images/admin2.png" alt="Cart" width="600"><br><br>
 </p>
+
+
 ### Hardware
 - Intel Core i5 processor or higher
 - 4GB RAM or more
